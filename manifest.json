@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Reasonable Contrast Dark Mode",
+  "version": "1.0",
+  "author": "Vic Ramon",
+  "description": "Remeber the good old days, when ChatGPT's dark mode didn't burn out your retinas? Here at Simple Vic's web design, we do. What's old is new a again. Let the the warm taste of nostalgia wash over you. This mellow, reasonable contrast dark mode is a true taste of the good life. Now that's Simple Vic",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://chat.openai.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
+
