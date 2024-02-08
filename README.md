@@ -11,3 +11,9 @@ Until I send this to the chrome web store, you have to install it manually.
 2. There's a toggle at the top right for Developer mode. Toggle it on.
 3. Click Load unpacked.
 4. Find and select the folder you downloaded.
+
+## Contribute
+
+I did this in about 30 minutes and couldn't find a great screenshot of the old version. It looks fine but I only changed two colors. The main variables are in the contentScripts.js – if you can send me a better screenshot or the actual colors (if any others are different) please do. Or even better, a Pull Request.
+
+This also needs a logo so it can go on the Chrome Web Store. It's late here so I'll make one tomorrow.
