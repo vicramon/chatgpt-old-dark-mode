@@ -1,7 +1,7 @@
 document.documentElement.style.setProperty('--sidebar-surface-primary', '#0D0D0D');
 document.documentElement.style.setProperty('--main-surface-primary', '#34353F');
 
-// These are the other root variables. I'm not sure what else changed, I don't have a good screenshot of the old one. I just go the sidebar and main surface for now.
+// These are the other root variables. I'm not sure what else changed, I don't have a good screenshot of the old one. I just got the sidebar and main surface for now.
 
 // --text-primary: var(--gray-50);
 // --text-secondary: var(--gray-300);
