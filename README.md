@@ -1,6 +1,6 @@
 # Old Dark Mode for Chat GPT Chrome Extension
 
-Remeber the good old days, when ChatGPT's dark mode didn't burn out your retinas? Here at Simple Vic's web design, we do. What's old is new a again. Let the the warm taste of nostalgia wash over you. This mellow, reasonable contrast dark mode is a true taste of the good life. Now that's Simple Vic.
+Remeber the good old days, when ChatGPT's dark mode didn't burn out your retinas? Here at Simple Vic's web design, we do. What's old is new a again. Let the the warm taste of nostalgia wash over you. This mellow, reasonable-contrast dark mode is a true taste of the good life. Now that's Simple Vic.
 
 ## Usage Instructions
 
